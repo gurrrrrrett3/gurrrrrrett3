@@ -8,11 +8,12 @@ body {
   width: 100vw;
   height: 100vh;
   overflow: hidden;
+  margin: 0%;
 }
 
 .loginPage {
   position: absolute;
-  top: 35vw;
+  top: 35vh;
   left: 35vw;
   width: 40vw;
   height: 30vh;
@@ -69,6 +70,22 @@ body {
   z-index: 10;
 }
 
+.toolbar {
+  height: 32px;
+  top: 100%;
+  left: 0;
+  width: 98%;
+  background-color: #3a3a3a;
+  padding-left: 4px;
+  padding-right: 4px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+.toolbar i {
+  width: 28px;
+  height: auto;
+}
+
 @keyframes fadein {
   from {
     background-color: #000;
@@ -82,10 +99,10 @@ body {
     top: -300px;
   }
   30% {
-    top: 35vw;
+    top: 35vh;
   }
   70% {
-    top: 35vw;
+    top: 35vh;
   }
   to {
     top: -300px;
