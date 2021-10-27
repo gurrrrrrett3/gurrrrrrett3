@@ -2,9 +2,9 @@
 body {
   font-family: "Zen Kurenaido", sans-serif;
   -webkit-animation-duration: 3s;
-  animation-duration: 3s;
+          animation-duration: 3s;
   -webkit-animation-name: fadein;
-  animation-name: fadein;
+          animation-name: fadein;
   background-color: #1a1a2a;
   color: white;
   width: 100vw;
@@ -23,17 +23,17 @@ body {
   border-radius: 8px;
   white-space: nowrap;
   -webkit-animation-name: loginBox;
-  animation-name: loginBox;
+          animation-name: loginBox;
   -webkit-animation-duration: 8s;
-  animation-duration: 8s;
+          animation-duration: 8s;
   -webkit-animation-timing-function: cubic-bezier();
-  animation-timing-function: cubic-bezier();
+          animation-timing-function: cubic-bezier();
 }
 
 .welcome h1 {
   -webkit-box-flex: 1;
-  -ms-flex: auto;
-  flex: auto;
+      -ms-flex: auto;
+          flex: auto;
   font-family: "Zen Kurenaido", sans-serif;
   color: white;
   font-weight: bold;
@@ -41,7 +41,7 @@ body {
   position: absolute;
   left: 50%;
   -webkit-transform: translateX(-50%);
-  transform: translateX(-50%);
+          transform: translateX(-50%);
 }
 
 .password {
@@ -54,13 +54,13 @@ body {
   left: 50%;
   top: 70%;
   -webkit-transform: translateX(-50%);
-  transform: translateX(-50%);
+          transform: translateX(-50%);
   font-family: "Zen Kurenaido", sans-serif;
   font-size: 48px;
   -webkit-animation-name: passwordBoxGrow;
-  animation-name: passwordBoxGrow;
+          animation-name: passwordBoxGrow;
   -webkit-animation-duration: 2s;
-  animation-duration: 2s;
+          animation-duration: 2s;
   width: 90%;
 }
 
@@ -74,11 +74,11 @@ body {
   right: 10%;
   top: 70%;
   -webkit-animation-name: passwordBoxType;
-  animation-name: passwordBoxType;
+          animation-name: passwordBoxType;
   -webkit-animation-duration: 1s;
-  animation-duration: 1s;
+          animation-duration: 1s;
   -webkit-animation-delay: 2s;
-  animation-delay: 2s;
+          animation-delay: 2s;
   width: 85%;
   display: block;
   z-index: 10;
@@ -109,6 +109,7 @@ body {
     background-color: #1a1a2a;
   }
 }
+
 @keyframes fadein {
   from {
     background-color: #000;
@@ -117,6 +118,7 @@ body {
     background-color: #1a1a2a;
   }
 }
+
 @-webkit-keyframes loginBox {
   from {
     top: -300px;
@@ -131,6 +133,7 @@ body {
     top: -300px;
   }
 }
+
 @keyframes loginBox {
   from {
     top: -300px;
@@ -145,6 +148,7 @@ body {
     top: -300px;
   }
 }
+
 @-webkit-keyframes passwordBoxGrow {
   from {
     width: 25%;
@@ -153,6 +157,7 @@ body {
     width: 90%;
   }
 }
+
 @keyframes passwordBoxGrow {
   from {
     width: 25%;
@@ -161,6 +166,7 @@ body {
     width: 90%;
   }
 }
+
 @-webkit-keyframes passwordBoxType {
   from {
     width: 85%;
@@ -169,6 +175,7 @@ body {
     width: 0%;
   }
 }
+
 @keyframes passwordBoxType {
   from {
     width: 85%;
@@ -177,6 +184,4 @@ body {
     width: 0%;
   }
 }
-/*# sourceMappingURL=global.css.map */
-
 /*# sourceMappingURL=global.css.map */
