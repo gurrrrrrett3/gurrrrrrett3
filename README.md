@@ -1,4 +1,4 @@
-# Gucci Garrett
+# Garrett
 
 Backend application developer
 
