@@ -1,5 +1,6 @@
 # Garrett
 
+- TypeScript Fanatic
 - Bot dev for [CraftYourTown](https://craftyourtown.com)
 - Freelance Developer
 - Student at The Open University
