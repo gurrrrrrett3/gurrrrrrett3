@@ -16,3 +16,6 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_calendar: yes
+          plugin_code: yes
+          plugin_code_languages: typescript
+          plugin_code_load: 400
