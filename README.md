@@ -4,7 +4,8 @@
 - Bot dev for [CraftYourTown](https://craftyourtown.com)
 - Freelance Developer
 - Student at The Open University
-- Pro Dishwasher
+
+![Metrics](/github-metrics.svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/?username=gurrrrrrett3&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
