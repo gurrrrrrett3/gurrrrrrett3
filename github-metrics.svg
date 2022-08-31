@@ -9,7 +9,7 @@
             <section>
                 <h1 class="field">
                     <img class="avatar" src="data:image/png;base64,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" width="20" height="20" />
-                    <span>Garrett Keneau</span>
+                    <span>Garrett</span>
                 </h1>
                 <div class="row">
                     <section>
@@ -30,19 +30,19 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            745 Commits
+                            749 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -133,7 +133,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.679 7.932c.412-.621 1.242-1.75 2.366-2.717C5.175 4.242 6.527 3.5 8 3.5c1.473 0 2.824.742 3.955 1.715 1.124.967 1.954 2.096 2.366 2.717a.119.119 0 010 .136c-.412.621-1.242 1.75-2.366 2.717C10.825 11.758 9.473 12.5 8 12.5c-1.473 0-2.824-.742-3.955-1.715C2.92 9.818 2.09 8.69 1.679 8.068a.119.119 0 010-.136zM8 2c-1.981 0-3.67.992-4.933 2.078C1.797 5.169.88 6.423.43 7.1a1.619 1.619 0 000 1.798c.45.678 1.367 1.932 2.637 3.024C4.329 13.008 6.019 14 8 14c1.981 0 3.67-.992 4.933-2.078 1.27-1.091 2.187-2.345 2.637-3.023a1.619 1.619 0 000-1.798c-.45-.678-1.367-1.932-2.637-3.023C11.671 2.992 9.981 2 8 2zm0 8a2 2 0 100-4 2 2 0 000 4z"/>
                             </svg>
-                            Watching 56 repositories
+                            Watching 57 repositories
                         </div>
                     </section>
                 </div>
@@ -528,6 +528,7 @@
                                 <g transform="translate(525, 0)">
                                     <rect class="day" x="0" y="4" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="19" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="34" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </g>
                         </svg>
@@ -593,7 +594,7 @@ Loss of 3 days of data (~10.4k teleports) but I don't mind too much
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Aug 2022, 00:14:55  with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 31 Aug 2022, 00:15:12  with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
