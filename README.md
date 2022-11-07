@@ -2,6 +2,8 @@
 
 # Garrett
 
+<h1>[My Website](https://gart.sh)</h1>
+
 - TypeScript Fanatic
 - Bot dev for [CraftYourTown](https://craftyourtown.com)
 - Freelance Developer
