@@ -2,7 +2,7 @@
 
 # Garrett
 
-<h1>[My Website](https://gart.sh)</h1>
+<h1><a href"https://gart.sh">My Website</a></h1>
 
 - TypeScript Fanatic
 - Bot dev for [CraftYourTown](https://craftyourtown.com)
