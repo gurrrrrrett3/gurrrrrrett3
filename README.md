@@ -5,7 +5,6 @@
 <h3><a href="https://gart.sh">My Website</a></h3>
 
 - TypeScript Fanatic
-- Bot dev for [CraftYourTown](https://craftyourtown.com)
 - Freelance Developer
 - Student at The Open University
 
