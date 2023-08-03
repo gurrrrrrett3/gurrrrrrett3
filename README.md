@@ -8,7 +8,6 @@
 
 - TypeScript Fanatic
 - Freelance Developer
-- Student at The Open University
 
 ![[Code Time Today](https://wakapi.dev/api/badge/gart/gart/interval:today?label=Code%20Time%20Today)](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/gart/interval:today&label=Code%20Time%20Today)
 ![[Last 30 Days](https://wakapi.dev/api/badge/gart/gart/interval:30_days?label=last%2030d)](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/gart/interval:30_days&label=last%2030d)
@@ -20,4 +19,4 @@
   </tr>
  </table>
 
-You can contact me on Discord @ `gart#9211`
+You can contact me on Discord @ `gart`
