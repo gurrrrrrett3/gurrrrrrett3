@@ -1,5 +1,3 @@
-![Metrics](/github-metrics.svg)
-
 # Garrett
 
 <h3><a href="https://gart.sh">My Website</a></h3>
