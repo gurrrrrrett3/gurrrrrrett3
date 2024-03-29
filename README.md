@@ -1,9 +1,8 @@
 # Garrett
 
-<h3><a href="https://gart.sh">My Website</a></h3>
+TypeSript/Lua developer specializing in backend applications
 
-- TypeScript Fanatic
-- Freelance Developer
+<h3><a href="https://gart.sh">My Website</a></h3>
 
 ![[Code Time Today](https://wakapi.dev/api/badge/gart/gart/interval:today?label=Code%20Time%20Today)](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/gart/interval:today&label=Code%20Time%20Today)
 ![[Last 30 Days](https://wakapi.dev/api/badge/gart/gart/interval:30_days?label=last%2030d)](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/gart/interval:30_days&label=last%2030d)
