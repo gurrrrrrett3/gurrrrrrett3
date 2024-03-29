@@ -16,4 +16,4 @@ TypeSript/Lua developer specializing in backend applications
   </tr>
  </table>
 
-You can contact me on [Discord](https://discord.com/users/@me/232510731067588608) `gart`, or email me at `gart@gart.sh`
+You can contact me on [Discord](https://discord.com/users/@me/232510731067588608) at `gart`, or email me at `gart@gart.sh`
