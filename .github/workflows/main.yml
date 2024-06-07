@@ -16,7 +16,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           repositories_affiliations: collaborator
-          plugin_calendar: yes
-          plugin_code: yes
-          plugin_code_languages: typescript
+          # plugin_calendar: yes
+          # plugin_code: yes
+          # plugin_code_languages: typescript
           plugin_code_load: 400
