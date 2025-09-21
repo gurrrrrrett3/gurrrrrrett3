@@ -1,6 +1,6 @@
 # o/
 
-TypeScript/Lua developer specializing in backend applications
+sofware developer specializing in backend applications
 
 [https://gart.sh](https://gart.sh/me?from=github)
 
