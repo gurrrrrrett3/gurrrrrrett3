@@ -1,6 +1,6 @@
 # o/
 
-sofware developer specializing in backend applications
+sofware developer orca specializing in backend applications. obsessed with public transit, vr, and open source software
 
 [https://gart.sh](https://gart.sh/me?from=github)
 
