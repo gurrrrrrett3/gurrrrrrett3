@@ -1,7 +1,7 @@
 # o/
 
 seattle-based sofware developer orca specializing in backend applications. obsessed with public transit, vr, and open source software. 
-currently working at [Starfall](https://www.roblox.com/communities/1191237/St-rfall) building moderation systems designed for roleplay games. 
+currently working at [Starfall](https://www.roblox.com/communities/1191237/St-rfall) building custom moderation systems designed for roleplay games. 
 
 want to reach out? contact me!
 [https://gart.sh](https://gart.sh?from=github)
